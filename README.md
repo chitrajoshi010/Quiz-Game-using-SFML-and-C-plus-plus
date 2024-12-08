@@ -1,5 +1,2 @@
-# first-repository
-This is sample only.
-<br>
-hello friends
-I am chitra
+# Quiz Game using SFML and c++
+
